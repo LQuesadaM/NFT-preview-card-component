@@ -15,12 +15,15 @@
 
 *, *::before, *::after {
     box-sizing: border-box;
-} 
+}
+
 
 body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--Very-dark-blue-mainBG);
-    color: antiquewhite; /* apagar depois */
+    color: antiquewhite; /* Cor da fonte, apagar depois */
+    height: 100vh;
+    width: 100vw;
 }
 
 
