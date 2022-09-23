@@ -6,9 +6,9 @@
 :root {
     --Soft-blue: rgb(139, 172, 218);
     --Cyan: rgb(0, 255, 247);
-    --Very-dark-blue-mainBG: rgb(13, 25, 43);
-    --Very-dark-blue-cardBG: rgb(20, 37, 61);
-    --Very-dark-blue-line: rgb(47, 65, 91);
+    --Very-dark-blue-mainBG: #0d192b;
+    --Very-dark-blue-cardBG: #14253d;
+    --Very-dark-blue-line: #2f415b;
     --White: rgb(255, 255, 255);
     
 }
